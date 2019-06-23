@@ -21,7 +21,7 @@ import com.microsoft.azure.storage.blob.ListBlobItem;
 public class S3toBlob 
 	{
 	
-	private static final String amazonObjectUrl = "https://mys3toazuretestbucket.s3.ap-south-1.amazonaws.com/TestMigration/TestFile.csv";
+	private static final String amazonObjectUrl = "Object url to be enter here";
 
 	  private static final String azureBlobContainerName = "mytestcontainer"; 
 	  private static final String azureBlobName = "myTestFile.csv";
